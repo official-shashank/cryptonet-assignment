@@ -1,0 +1,10 @@
+.main-container-card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+    gap: 4rem;
+    flex-wrap: nowrap;
+}
